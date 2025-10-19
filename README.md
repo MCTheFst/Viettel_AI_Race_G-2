@@ -2,7 +2,7 @@
 
 ## Thông tin
 - **Tên đội:** DataScight
-- **Thành viên thực hiện nhiệm vụ:** Phạm Mạnh Cường
+- **Thành viên:** Phạm Mạnh Cường (Người thực hiện nhiệm vụ chính), Lã Minh Hoàng, Phùng Minh Khoa
 - **Nhiệm vụ:** 3D Parcel Localization with Orientation Estimation
 
 ## Tổng quan giải pháp
@@ -206,5 +206,6 @@ num_workers=2  # trong DataLoader
 
 - **Email:** windowcuong100@gmail.com
 - **GitHub:** MCTheFst
+
 
 **Lưu ý cho BTC:** Repository này được tạo cho mục đích hậu kiểm kết quả Private test của cuộc thi Viettel AI Race. File CSV và code đảm bảo tái tạo kết quả đã nộp trên hệ thống chấm điểm.
